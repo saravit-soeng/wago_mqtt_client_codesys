@@ -3,7 +3,7 @@
 Configuration Cloud Connectivity (MQTT Anycloud) on Wago WBM as below:
 ![image](https://user-images.githubusercontent.com/19525030/138884622-c57d5a61-50fa-4fce-a311-4cf9df2f4b2e.png)
 
-Before you can program (IEC 61131-3 standard) with MQTT and works with json data, you need to 2 libraries to Library Manager on e!Cockpit:
+Before you can program (IEC 61131-3 standard) with MQTT and works with json data, you need to add 2 libraries to Library Manager on e!Cockpit:
 - WagoAppCloud
 - WagoAppJSON
 
