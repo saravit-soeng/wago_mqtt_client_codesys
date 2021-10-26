@@ -1,4 +1,4 @@
-# Wago MQTT Client on E!Cockpit(Codesys-based)
+# Wago MQTT Client on E!Cockpit (Codesys-based)
 
 Configuration Cloud Connectivity (MQTT Anycloud) on Wago WBM as below:
 ![image](https://user-images.githubusercontent.com/19525030/138884622-c57d5a61-50fa-4fce-a311-4cf9df2f4b2e.png)
